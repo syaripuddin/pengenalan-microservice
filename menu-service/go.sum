@@ -1,5 +1,7 @@
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/syaripuddin/pengenalan-microservice v0.0.0-20201023204421-f2ca2909bf48 h1:RLqiHbWCETxIyBr2mf6IG7M1kIA7s34KDyVBUDCtZMg=
+github.com/syaripuddin/pengenalan-microservice v0.0.0-20201023204421-f2ca2909bf48/go.mod h1:85ZidFUeNX9j8ez4p6AmEDVuKBCBJuPdW6q3fMcTBpQ=
 github.com/wskurniawan/digitalent-microservice v0.0.0-20201015025218-cb7e74ca6a67 h1:cTXp9KLoPkidxRehj/1fOd+tMX+5CGGgtPaJTi6hPAI=
 github.com/wskurniawan/digitalent-microservice v0.0.0-20201015025218-cb7e74ca6a67/go.mod h1:i7kQy5IsYWuN8BnAun5RW+yJBlCIayLe1d6EoRa3FWc=
 github.com/wskurniawan/digitalent-microservice/menu-service v0.0.0-20201015025218-cb7e74ca6a67 h1:E8f6pxmDvCuNWlt4io8c5i0mRdn7T570yVZpyzacN/E=

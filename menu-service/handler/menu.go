@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"https://github.com/syaripuddin/pengenalan-microservice/utils"
+	"github.com/syaripuddin/pengenalan-microservice/utils"
 )
 
 func AddMenu(w http.ResponseWriter, r *http.Request) {

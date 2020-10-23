@@ -21,7 +21,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"https://github.com/syaripuddin/pengenalan-microservice/menu-service/handler"
+	"github.com/syaripuddin/pengenalan-microservice/menu-service/handler"
 )
 
 func main() {
