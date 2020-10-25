@@ -1,8 +1,15 @@
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
+github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
+github.com/jinzhu/now v1.1.1 h1:g39TucaRWyV3dwDO++eEc6qf8TVIQ/Da48WmqjZ3i7E=
+github.com/jinzhu/now v1.1.1/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
 github.com/syaripuddin/pengenalan-microservice v0.0.0-20201023204421-f2ca2909bf48 h1:RLqiHbWCETxIyBr2mf6IG7M1kIA7s34KDyVBUDCtZMg=
 github.com/syaripuddin/pengenalan-microservice v0.0.0-20201023204421-f2ca2909bf48/go.mod h1:85ZidFUeNX9j8ez4p6AmEDVuKBCBJuPdW6q3fMcTBpQ=
+github.com/syaripuddin/pengenalan-microservice v0.0.0-20201023204906-3c6cc326a7c9 h1:fv7TnX0xtZl1N+QlISotwQccPccoOPCTPqnC0oYsCQM=
 github.com/wskurniawan/digitalent-microservice v0.0.0-20201015025218-cb7e74ca6a67 h1:cTXp9KLoPkidxRehj/1fOd+tMX+5CGGgtPaJTi6hPAI=
 github.com/wskurniawan/digitalent-microservice v0.0.0-20201015025218-cb7e74ca6a67/go.mod h1:i7kQy5IsYWuN8BnAun5RW+yJBlCIayLe1d6EoRa3FWc=
 github.com/wskurniawan/digitalent-microservice/menu-service v0.0.0-20201015025218-cb7e74ca6a67 h1:E8f6pxmDvCuNWlt4io8c5i0mRdn7T570yVZpyzacN/E=
 github.com/wskurniawan/digitalent-microservice/menu-service v0.0.0-20201015025218-cb7e74ca6a67/go.mod h1:TbKqDXZIAsikKjshR/dRTN0O5WtqWwBrmgJYJ12mfWo=
+gorm.io/gorm v1.20.5 h1:g3tpSF9kggASzReK+Z3dYei1IJODLqNUbOjSuCczY8g=
+gorm.io/gorm v1.20.5/go.mod h1:0HFTzE/SqkGTzK6TlDPPQbAYCluiVvhzoA1+aVyzenw=
